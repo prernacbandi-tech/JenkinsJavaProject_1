@@ -9,7 +9,7 @@ public class TestSample {
 		a=b;
 		b=c;
 		System.out.println("a="+a);
-		System.out.println("b="+b)
+		System.out.println("b="+b);
 	}
 
 	public static void main(String[] args) {
